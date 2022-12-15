@@ -1,0 +1,7 @@
+List of stored variables
+
+mode = normal
+enable-shannon = f
+allow-personal-commands = t
+enable-random-responses = t
+login-token = Mjc1Njk4MDc3MTc4Nzg5OTAw.C3GB_w.pOoOHLHZ1RHu2xrqcw7NpxeGZrk
